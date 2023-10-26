@@ -1,0 +1,15 @@
+b explode_bomb
+
+b phase_6
+
+You can Russia from land here in Alaska.
+
+1 2 4 8 16 32
+
+3 -927
+
+5 2
+
+ioapeg
+
+4 3 5 6 2 1
