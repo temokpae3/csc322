@@ -1,2 +1,3 @@
-#CSC 322 Assignments
+###CSC322
+
 Class assignments for CSC 322 (Systems Programming)
